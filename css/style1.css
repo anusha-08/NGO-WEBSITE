@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,400i,600i,700,700i,800,800i,900&display=swap');#first {
+    padding-top: 230px;
+    padding-left: 70px;
+    background-color: 
+}
+
+html,
+body,
+img,
+figure
+ {
+  max-width: 100%;
+}
+html,
+body 
+{
+  overflow-x: hidden;
+  color: #000;
+  -ms-overflow-style: scrollbar;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+#new {
+    height:50px;
+}
+
+.ftco-navbar-light
+{
+  background-color: transparent;
+}
+
+
+
+#fix-donor {
+    padding-left: 435px;
+    padding-top: 55px;
+    background-image: url(../img/volunteer2.jpg) ;
+    
+    padding-bottom: 25px;
+  
+}
+
+#beautify {
+    margin-top: 45px;
+    margin-bottom: 25px;
+    background-image: url(../img/donatee.jpg);
+    background-size: cover;
+    padding-left: 355px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.agile-volt {
+     margin: 20px;
+  background-color:black;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 65px;
+    width:370px;
+}
+
+#hey {
+       background-image: url('../img/water.jpg');
+}
+
+#add {
+    background-image: url('../img/volunteer1.jpg');
+}
+
+
+.box {
+   
+     margin: 20px;
+    background-color:black;
+     border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    width:530px;
+
+}
+
+.box2 {
+   
+   margin: 100px;
+    background-color: black;
+    border: 8px solid white;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 62px;
+    width: 950px;
+    height: 400px;
+
+}
+}
+
+.content1 {
+    font-size:20px;
+}
+
+
+.box3 {
+   
+     margin-top: 100px;
+    background-color:black;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    width:400px;
+    margin-left: 300px;
+
+}
+
+
+.box4
+{
+   
+     margin-top: 40px;
+    background-color:black;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 75px;
+    width:650px;
+    margin-left: 200px;
+
+}
+
+
+.box5
+{
+   
+     margin-top: 40px;
+    background-color:black;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 75px;
+    width:650px;
+    margin-left: 200px;
+
+}
+
+
+
+
+
+
+
+
+
+
+

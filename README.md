@@ -1,2 +1,5 @@
 # NGO-WEBSITE
-Simple NGO Website template using HTML ,CSS as front end tech and PHP for back end
+Time to Mentor is a NGO Website template aimed to promote the judious use of water and help provide water facilities to people around the sate currently suffereing from the lack of potable drinking water. 
+
+Frontend : HTTML , CSS
+Backend : PHP 
